@@ -1,0 +1,36 @@
+body {
+    background: #F0F0F0;
+}
+
+header img {
+    width: 100px; 
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    background: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0; 
+    width: 100%;
+    background: black;
+}
+
+header h1 {
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+footer a {
+    color: white;
+}
