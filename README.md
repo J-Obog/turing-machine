@@ -1,3 +1,0 @@
-# turing-machine 
-
-Turing machine
